@@ -48,3 +48,11 @@ Tempo de execução do Selection Sort: 0.001 segundos
 Tempo de execução do Insertion Sort: 0.001 segundos
 Tempo de execução do Merge Sort: 0.0005 segundos
 Tempo de execução do Quick Sort: 0.0003 segundos
+```
+## Referências
+Biblioteca CS50: https://cs50.harvard.edu/x/2023/library/
+
+Curso CS50 - Introdução à Ciência da Computação: https://cs50.harvard.edu/x/2023/
+
+Este programa foi desenvolvido como parte do curso CS50 - Introdução à Ciência da Computação da Universidade Harvard.
+
